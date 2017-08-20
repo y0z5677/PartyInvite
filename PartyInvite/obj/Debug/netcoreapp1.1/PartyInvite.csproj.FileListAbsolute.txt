@@ -1,0 +1,10 @@
+C:\Users\y0z56\Source\Repos\PartyInvite\PartyInvite\PartyInvite\bin\Debug\netcoreapp1.1\PartyInvite.deps.json
+C:\Users\y0z56\Source\Repos\PartyInvite\PartyInvite\PartyInvite\bin\Debug\netcoreapp1.1\PartyInvite.runtimeconfig.json
+C:\Users\y0z56\Source\Repos\PartyInvite\PartyInvite\PartyInvite\bin\Debug\netcoreapp1.1\PartyInvite.runtimeconfig.dev.json
+C:\Users\y0z56\Source\Repos\PartyInvite\PartyInvite\PartyInvite\bin\Debug\netcoreapp1.1\PartyInvite.dll
+C:\Users\y0z56\Source\Repos\PartyInvite\PartyInvite\PartyInvite\bin\Debug\netcoreapp1.1\PartyInvite.pdb
+C:\Users\y0z56\Source\Repos\PartyInvite\PartyInvite\PartyInvite\obj\Debug\netcoreapp1.1\PartyInvite.csprojResolveAssemblyReference.cache
+C:\Users\y0z56\Source\Repos\PartyInvite\PartyInvite\PartyInvite\obj\Debug\netcoreapp1.1\PartyInvite.csproj.CoreCompileInputs.cache
+C:\Users\y0z56\Source\Repos\PartyInvite\PartyInvite\PartyInvite\obj\Debug\netcoreapp1.1\PartyInvite.AssemblyInfo.cs
+C:\Users\y0z56\Source\Repos\PartyInvite\PartyInvite\PartyInvite\obj\Debug\netcoreapp1.1\PartyInvite.dll
+C:\Users\y0z56\Source\Repos\PartyInvite\PartyInvite\PartyInvite\obj\Debug\netcoreapp1.1\PartyInvite.pdb
